@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="assets/banner.gif" width="700">
-</p>
-
-# Manos Neofotistos
-
 Hi there, I am Manos, a professional data-driven mistake maker!
 
 I am a BIE @ Amazon and co-founder of [Kriton AI.](https://https://kritonai.com/).
