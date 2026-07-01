@@ -1,5 +1,3 @@
-Hi there, I am Manos, a professional data-driven mistake maker!
-
 I am a BIE @ Amazon and co-founder of [Kriton AI.](https://https://kritonai.com/).
 
 This GitHub is a collection of projects, experiments, and things I’ve built while working across AI, data, and systems.
